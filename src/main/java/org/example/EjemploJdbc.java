@@ -8,7 +8,6 @@ public class EjemploJdbc {
     public static void main(String[] args) {
 
         String url ="jdbc:mysql://localhost:3306/java_curso?serverTimeZone=europe/madrid";
-
         String usuario = "root";
         String password = "";
 
